@@ -1,1 +1,0 @@
-# figma-to-fire-base
